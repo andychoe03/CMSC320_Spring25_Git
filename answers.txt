@@ -1,0 +1,4 @@
+Q1: Why might we consider using Git?
+
+Answer: We use it for version control to help track changes in code easily/efficiently
+
